@@ -1,3 +1,2 @@
 # dwimble.github.io
-dwimble.github.io
-blank
+Yeh so i'm updating this to test merging, lets see how it goes
